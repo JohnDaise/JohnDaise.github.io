@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Difficult Part of Learning to Code"
-date:   2017-09-20 02:38:54 +0000
+date:   2017-09-19 22:38:55 -0400
 ---
 
 
