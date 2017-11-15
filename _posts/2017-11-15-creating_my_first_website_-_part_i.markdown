@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Creating My First Website - Part I"
-date:       2017-11-15 18:28:56 +0000
+date:       2017-11-15 13:28:57 -0500
 permalink:  creating_my_first_website_-_part_i
 ---
 
@@ -14,8 +14,8 @@ This seemed like a simple proposition for her, but I tried my best to explain th
 
 Here are a few websites from similar businesses that I am using as references to share with my "client":
 
-http://www.weinfeldeducationgroup.com/
+[http://www.weinfeldeducationgroup.com/]
 
-http://baldwinconsult.com/
+[http://www.publicconsultinggroup.com/education/](http://)
 
-http://www.publicconsultinggroup.com/education/
+[http://baldwinconsult.com/](http://)
