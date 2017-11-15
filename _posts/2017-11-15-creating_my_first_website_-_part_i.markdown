@@ -14,8 +14,8 @@ This seemed like a simple proposition for her, but I tried my best to explain th
 
 Here are a few websites from similar businesses that I am using as references to share with my "client":
 
-[http://www.weinfeldeducationgroup.com/]
+[Weinfield Education](http://www.weinfeldeducationgroup.com/)
 
-[http://www.publicconsultinggroup.com/education/](http://)
+[PCG Education](http://www.publicconsultinggroup.com/education/)
 
-[http://baldwinconsult.com/](http://)
+[Baldwin Educational Consulting](http://baldwinconsult.com/)
